@@ -55,7 +55,7 @@ I'm a passionate software engineer who loves building scalable web applications 
 
 - LinkedIn: www.linkedin.com/in/muniru-mujuzi
 - Email: munirumujuzi@gmail.com
-- Portfolio: https://yourportfolio.com
+  
 
 ### Open to Opportunities
 
