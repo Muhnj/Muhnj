@@ -32,7 +32,7 @@ I'm a passionate software engineer who loves building scalable web applications 
 - Git | Linux
 
 **Languages & Editors**
-- JavaScript/TypeScript | C# | VB.NET | Shell Scripting
+- JavaScript/TypeScript | C | VB.NET | Shell Scripting
 - Vim | Emacs | VS Code
 
 ###  What I'm Working On
