@@ -15,7 +15,7 @@ I'm a passionate software engineer who loves building scalable web applications 
 
 **Backend**
 - Node.js | Express.js | NestJS
-- C# | .NET
+- C | .NET
 - RESTful APIs | GraphQL | Microservices
 
 **Frontend**
